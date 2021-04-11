@@ -1,0 +1,60 @@
+#MainHeader {
+    margin-top:  5%;
+    text-align:  center;
+}
+
+.EntryStyling {
+
+margin-top: 2%;
+margin-left: 5%;
+margin-bottom: 2%
+}
+
+.FullBody{
+    margin-bottom: 0%;
+    height: 100vh
+}
+
+.SidebarStyling{
+    background-color: #2399e7;
+    height:100vh;
+    position: relative;
+    margin-bottom: 0px;
+}
+.SidebarHeader{
+    margin-top: 5%;
+    text-align: center;
+    color: white
+}
+.SidemenuStyling{
+    width: 100%;
+    list-style-type: none;
+    margin-left: 5%;
+    margin-top: 2%;
+    color: white;
+    font-weight: 700;
+
+   
+}
+.UserNameStyling{
+    font-size: 25px;
+    font-weight: 650;
+    
+}
+.UserDateStyling{
+    font-size: 15px;
+    font-weight: 650;
+    
+}
+
+.MembershipStyling{
+    font-size: 15px;
+    font-weight: 650;
+
+}
+.FunctionButton{
+    Width: 150px;
+    height: 40px
+}
+
+

@@ -1,0 +1,25 @@
+.DetailsStyling{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+}
+
+.ButtonLayout{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    width: 100px
+}
+
+.DataStyling{
+    font-size: 1.4em;
+    font-weight: 700;
+    height: 35px;
+    
+    padding-left: 10px;
+}
+
+.UserDataStyling{
+    margin-left: 2%;
+
+}

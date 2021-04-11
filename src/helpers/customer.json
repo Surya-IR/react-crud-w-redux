@@ -1,0 +1,51 @@
+{"data": [{
+    "username":"Tony",
+    "password": "Tony",
+    "date_joined":{
+        "date":10,
+        "month":1,
+        "year":2021
+    },
+    "membership":0
+    
+},{
+    "username":"Jimmy",
+    "password": "Jimmy",
+    "date_joined":{
+        "date":15,
+        "month":2,
+        "year":2021
+    },
+    "membership":1
+    
+},{
+    "username":"Ricky",
+    "password": "Ricky",
+    "date_joined":{
+        "date":17,
+        "month":2,
+        "year":2021
+    },
+    "membership":1
+    
+},{
+    "username":"Bobby",
+    "password": "Bobby",
+    "date_joined":{
+        "date":18,
+        "month":3,
+        "year":2021
+    },
+    "membership":2
+    
+},{
+    "username":"Jason",
+    "password": "Jason",
+    "date_joined":{
+        "date":23,
+        "month":3,
+        "year":2021
+    },
+    "membership":1
+    
+}]}
